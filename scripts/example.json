@@ -1,0 +1,571 @@
+[
+    {
+      "Monthly report": "Month",
+      "__EMPTY": "Sep-23"
+    },
+    {
+      "Monthly report": "Last Name",
+      "__EMPTY": "BENNE Hannes",
+      "__EMPTY_4": "Employee number",
+      "__EMPTY_5": "96111234"
+    },
+    {
+      "Monthly report": "DATE",
+      "__EMPTY": "JOB ORDER",
+      "__EMPTY_1": "JOB SUB ORDER",
+      "__EMPTY_2": "HOURS",
+      "__EMPTY_3": "OFFICE LOCATION",
+      "__EMPTY_4": "NOTES",
+      "__EMPTY_5": "STATUS"
+    },
+    {
+      "Monthly report": "9/1/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "3.00",
+      "__EMPTY_4": "RSAFE | MEETING/CALL | 0.5 | Urlaubsübergabe mit Daniel \nRSAFE | GFMC-32502 | 2.5 | Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/1/23",
+      "__EMPTY": "REPL-RPL-05-5 NON CHARGEABLE WORK",
+      "__EMPTY_1": "REPL-RPL-05-5-14 Non Chargeable Works",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "Trailhead - Certification Maintenance",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/1/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.25",
+      "__EMPTY_4": "ORG5 | APEX LOG ANALYSIS | 0.25 | Flow Exception SendSurveyWhenCaseClosed",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/1/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "2.75",
+      "__EMPTY_4": "GFMC-31234 DRC Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/2/23"
+    },
+    {
+      "Monthly report": "9/3/23"
+    },
+    {
+      "Monthly report": "9/4/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "5.50",
+      "__EMPTY_4": "RSAFE | MEETING/CALL | 0.25 | org3 daily \nRSAFE | GFMC-32502 | 5.25 | Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/4/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | daily tasks",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/4/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "2.00",
+      "__EMPTY_4": "2 | DRC IT Assessment Meeting mit Juliana",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/5/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "ORG5 | APEX LOG ANALYSIS | 0.5 | BatDeletePersonAccounts \nRSAFE | REGULAR TASKS | 0.25 | daily tasks",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/5/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "7.25",
+      "__EMPTY_4": "RSAFE | GFMC-32502 | 6.25 | Implementierung \nRSAFE | MEETING/CALL | 0.5 | Team 3 Planning \nRSAFE | REFINEMENT | 0.5 | Dev Austausch",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/6/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "6.25",
+      "__EMPTY_4": "RSAFE | MEETING/CALL | 0.25 | daily coe meeting \nRSAFE | GFMC-32502 | 5.5 | Implementierung \nNIMBUS | MEETING/CALL | 0.5 | Meeting mit Joerg, Juliana",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/6/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "RSAFE | REGULAR TASKS | 0.75 | RSafe Weekly tasks",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/6/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "1.00",
+      "__EMPTY_4": "0.5 | DRC IT Assessment GFMC-33383\n0.5 |  GFMC-29470 DRC adjustments",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/7/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "7.00",
+      "__EMPTY_4": "LOCKY | GFMC-32848 | 2.25 | Dashboards und Recordpages anpassen \nRSAFE | GFMC-32328 | 4.75 | Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/7/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "1.25",
+      "__EMPTY_4": "0.5 | DRC IT Assessment GFMC-33011\n0.75 | Call Juliana (Git, deployment)",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/8/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "1.75",
+      "__EMPTY_4": "ORG5 | APEX LOG ANALYSIS | 0.25 | Flow Exception DRC Audi Scheduled Path Escalation Emails PROD \nORG5 | SC3 TICKET | 0.75 | IR17788461 \nORG5 | REGULAR TASKS | 0.5 | daily task \nRSAFE | REGULAR TASKS | 0.25 | daily tasks",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/8/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "6.50",
+      "__EMPTY_4": "RSAFE | GFMC-32328 | 6.5 | Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/9/23"
+    },
+    {
+      "Monthly report": "9/10/23"
+    },
+    {
+      "Monthly report": "9/11/23",
+      "__EMPTY": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_2": "3.50",
+      "__EMPTY_4": "MARKETING CLOUD | BGSF-1296 | 3 | MC Connect einrichten \nMARKETING CLOUD | MEETING/CALL | 0.5 | daily",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/11/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.25",
+      "__EMPTY_4": "RSAFE | REGULAR TASKS | 0.25 | org2 daily task",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/11/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "4.25",
+      "__EMPTY_4": "RSAFE | MEETING/CALL | 0.25 | coe daily \nRSAFE | GFMC-32502 | 1.5 | Implementierung \nNIMBUS | GFMC-33221 | 2.5 | Nimbus CoE Meeting",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/12/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "4.50",
+      "__EMPTY_4": "RSAFE | GFMC-32503 | 2.5 | anpassungen Poi poc \nRSAFE | MEETING/CALL | 0.5 | Team 3 Planning \nNIMBUS | GFMC-33221 | 1.5 | Nimbus CoE Meeting",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/12/23",
+      "__EMPTY": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_2": "2.00",
+      "__EMPTY_4": "MARKETING CLOUD | MEETING/CALL | 0.25 | daily meeting \nMARKETING CLOUD | BGSF-1294 | 1.75 | Unsubscribe Page",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/12/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | daily task \nRSAFE | REGULAR TASKS | 0.25 | daily task",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/12/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "0.5 | GFMC-31234 | calls juliana",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/13/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.25",
+      "__EMPTY_4": "RSAFE | REGULAR TASKS | 0.25 | daily task",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/13/23",
+      "__EMPTY": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_2": "7.75",
+      "__EMPTY_4": "MARKETING CLOUD | BGSF-1294 | 0.75 | SAP recherche, einrichten \nMARKETING CLOUD | BGSF-1295 | 3 | Templates \nMARKETING CLOUD | BGSF-1294 | 4 | Unsubscribe Process",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/14/23",
+      "__EMPTY": "REPL-RPL-05-4 OTHER ABSENCES",
+      "__EMPTY_1": "REPL-RPL-05-4-1 Annual Leave",
+      "__EMPTY_2": "8.00",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/15/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_2": "2.00",
+      "__EMPTY_4": "RSAFE | MEETING/CALL | 1 | Team3 Retro \nNIMBUS | GFMC-33221 | 1 | Meeting mit Juliana",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/15/23",
+      "__EMPTY": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_2": "4.00",
+      "__EMPTY_4": "MARKETING CLOUD | BGSF-1297 | 1.25 | User Management \nMARKETING CLOUD | BGSF-1295 | 2.5 | Templates \nMARKETING CLOUD | MEETING/CALL | 0.25 | daily team 1",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/15/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "3.00",
+      "__EMPTY_4": "RSAFE | REGULAR TASKS | 0.25 | daily tasks \nORG5 | IR17832928 | 2 | Login Flows \nORG5 | MEETING | 0.75 | Meeting Juliana SC3 Tickets",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/15/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "0.5 | Meeting Juliana, Deployments",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/16/23"
+    },
+    {
+      "Monthly report": "9/17/23"
+    },
+    {
+      "Monthly report": "9/18/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "2.00",
+      "__EMPTY_4": "NIMBUS | GFMC-33221 | 1.75 | Analyse \nRSAFE | MEETING/CALL | 0.25 | CoE Meeting",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/18/23",
+      "__EMPTY": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_2": "1.00",
+      "__EMPTY_4": "MARKETING CLOUD | MEETING/CALL | 0.5 | Meeting Marketing Cloud, Claudia/Tobi \nMARKETING CLOUD | BGSF-1296 | 0.25 | Layouts anpassen \nMARKETING CLOUD | MEETING/CALL | 0.25 | Team 1 daily",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/18/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "5.00",
+      "__EMPTY_4": "ORG5 | APEX LOG ANALYSIS | 0.5 | Missing Batchjob BatCommercialMailing \nORG5 | REGULAR TASKS | 0.5 | daily support \nORG5 | SC3 TICKET | 4 | RR17027661",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/18/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "0.75 | Unittests nach Proddeployment fixen",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/19/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "2.50",
+      "__EMPTY_4": "ORG5 | APEX LOG ANALYSIS | 0.25 | Analyse BatRelatePRNumberAssetToProduct Timeout \nORG5 | REGULAR TASKS | 0.5 | org5 daily support \nORG5 | SC3 TICKET | 1.25 | IR17863582 \nORG5 | SC3 TICKET | 0.5 | IR17841411",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/19/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "6.00",
+      "__EMPTY_4": "0.5 | Calls Juliana/daily\n4.5 | GFMC-33888 DRC QA Deployment\n1 | Meeting Dev Austausch",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/20/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.75 | Weekly tasks org 5",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/20/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "7.25",
+      "__EMPTY_4": "NIMBUS | GFMC-33221 | 7.25 | Analyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/21/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "3.50",
+      "__EMPTY_4": "HRBC | GFMC-33704 | 3.5 | Bug Analyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/21/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | org5 daily support",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/21/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "4.00",
+      "__EMPTY_4": "4 | GFMC-33109 DRC Implementierung",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/22/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | org5 support \nORG5 | APEX LOG ANALYSIS | 0.25 | Analyse Apex Mail Case Trigger",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/22/23",
+      "__EMPTY": "ARL0-ARLDE-14-1 Internal",
+      "__EMPTY_1": "ARL0-ARLDE-14-1-68 [BU2] [2023] - ENGAGEMENT - NCW",
+      "__EMPTY_2": "1.50",
+      "__EMPTY_4": "Automotive Cloud Meeting",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/22/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "5.50",
+      "__EMPTY_4": "0.5 | Org 5 daily\n4.5 | GFMC-33309 DRC Implementierung\n0.5 | Calls Juliana Flow Ticket",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/23/23"
+    },
+    {
+      "Monthly report": "9/24/23"
+    },
+    {
+      "Monthly report": "9/25/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "1.00",
+      "__EMPTY_4": "NIMBUS | MEETING/CALL | 1 | Fachbereich Meeting",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/25/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "8.50",
+      "__EMPTY_4": "7.5 | GFMC-33309 DRC Implementierung\n0.5 | Org5 daily\n0.5 | Calls Juliana Flowticket",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/26/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "2.75",
+      "__EMPTY_4": "NIMBUS | GFMC-33221 | 2.5 | Analyse \nRSAFE | GFMC-31367 | 0.25 | Internal review",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/26/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | daily support",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/26/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "4.75",
+      "__EMPTY_4": "0.5 | GFMC-33309 DRC Implementierung\n0.5 | Org5 daily meeting\n\n0.25 | DRC IT Assessment GFMC-33972\n1 | DRC IT Assessment GFMC-33627\n2 | DRC IT Assessment GFMC-32667\n0.5 | Calls Juliana  GFMC-31234",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/27/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "1.75",
+      "__EMPTY_4": "HRBC | OTHER | 0.75 | Hilfe für Waldemar bei Knowledge Article Migration \nNIMBUS | GFMC-33221 | 1 | Analyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/27/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.75",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.75 | weekly/daily support",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/27/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "5.75",
+      "__EMPTY_4": "1 | GFMC-31234 Internal Review\n0.25 | Org5 daily\n0.25 | GFMC-33983 DRC Bugfix\n2.5 | GFMC-33984 DRC Bugfix\n0.75 | Team 3 Refinement\n1 | GFMC-34034 Buganalyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/28/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "5.50",
+      "__EMPTY_4": "RSAFE | GFMC-17201 | 0.25 | review \nNIMBUS | GFMC-33221 | 5.25 | Analyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/28/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | Weekly Support",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/28/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "2.00",
+      "__EMPTY_4": "1.75 | Kanban Weekly\n0.25 | GFMC-34122 IT Assessment",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/29/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_2": "6.25",
+      "__EMPTY_4": "NIMBUS | MEETING/CALL | 0.5 | CoE/Fachbereich Meeting \nNIMBUS | GFMC-33221 | 5.75 | Analyse",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/29/23",
+      "__EMPTY": "REPL-RPL-05-5 NON CHARGEABLE WORK",
+      "__EMPTY_1": "REPL-RPL-05-5-14 Non Chargeable Works",
+      "__EMPTY_2": "1.00",
+      "__EMPTY_4": "Company Update",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/29/23",
+      "__EMPTY": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_2": "0.50",
+      "__EMPTY_4": "ORG5 | REGULAR TASKS | 0.5 | daily tasks",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/29/23",
+      "__EMPTY": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_2": "0.25",
+      "__EMPTY_4": "0.25 | GFMC-34034 DRC Bug",
+      "__EMPTY_5": "Approved"
+    },
+    {
+      "Monthly report": "9/30/23"
+    },
+    {
+      "Monthly report": "SUMMARY"
+    },
+    {
+      "Monthly report": "JOB ORDER",
+      "__EMPTY_1": "JOB SUB ORDER",
+      "__EMPTY_5": "HOURS"
+    },
+    {
+      "Monthly report": "ARL0-ARLDE-14-1 Internal",
+      "__EMPTY_1": "ARL0-ARLDE-14-1-68 [BU2] [2023] - ENGAGEMENT - NCW",
+      "__EMPTY_5": "1.50"
+    },
+    {
+      "Monthly report": "BUG0-ARLDE-23-1 BUGATTI RIMAC CRM",
+      "__EMPTY_1": "BUG0-ARLDE-23-1-1 BUGATTI RIMAC CRM | DEV & OPS 2023",
+      "__EMPTY_5": "18.25"
+    },
+    {
+      "Monthly report": "REPL-RPL-05-4 OTHER ABSENCES",
+      "__EMPTY_1": "REPL-RPL-05-4-1 Annual Leave",
+      "__EMPTY_5": "8.00"
+    },
+    {
+      "Monthly report": "REPL-RPL-05-5 NON CHARGEABLE WORK",
+      "__EMPTY_1": "REPL-RPL-05-5-14 Non Chargeable Works",
+      "__EMPTY_5": "1.50"
+    },
+    {
+      "Monthly report": "VOL1-ARLDE-18-3 Support & Rufbereitschaft",
+      "__EMPTY_1": "VOL1-ARLDE-18-3-22 Support & Rufbereitschaft - 2023 Q3",
+      "__EMPTY_5": "20.00"
+    },
+    {
+      "Monthly report": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-325 * Kanban | DRC & LCM | 2023 - 02 *",
+      "__EMPTY_5": "45.75"
+    },
+    {
+      "Monthly report": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-328 :: Sprint 103 ::",
+      "__EMPTY_5": "46.25"
+    },
+    {
+      "Monthly report": "VOL1-ARLDE-20-3 ### Salesforce CoE Projects ###",
+      "__EMPTY_1": "VOL1-ARLDE-20-3-329 :: Sprint 104 ::",
+      "__EMPTY_5": "30.00"
+    },
+    {
+      "__EMPTY_4": "Total Hours",
+      "__EMPTY_5": "171.25"
+    }
+  ]

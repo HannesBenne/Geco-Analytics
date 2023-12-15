@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GecoJSO__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Geco JSO</label>
+    <referenceTo>GecoJSO__c</referenceTo>
+    <relationshipLabel>Geco Time Bookings</relationshipLabel>
+    <relationshipName>GecoTimeBookings</relationshipName>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
